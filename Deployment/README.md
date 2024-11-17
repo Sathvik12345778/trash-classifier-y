@@ -1,11 +1,11 @@
 # Steps for using the Web Application
-- Setting up the Python Environment with the dependencies:
+- deployment link
 
         https://trash-classifier-in-python-using-tensorflow-sdtrjgw4tclfkbmizs.streamlit.app/
 
 - Cloning the Repository: 
 
-        git clone https://github.com/srijarkoroy/Garbage_Segregation.git
+        git clone https://github.com/Sathvik12345778/trash-classifier-y.git
 - Entering The directory: 
 
         cd Garbage_Segregation
